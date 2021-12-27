@@ -38,6 +38,15 @@
 
    ![image](https://user-images.githubusercontent.com/96693271/147457033-17dfa945-24e1-48d5-831c-326da182747a.png)
 
+## Testing Data
+   นำภาพที่ต้องการจำแนกมาจำแนกสีผม
+   ![image](https://user-images.githubusercontent.com/96693271/147457377-0ec3bf98-ed2e-4b2f-aefc-66835f934fd7.png)
+   - ผลของการจำแนกสีผมของ algorithm kd_tree
+   ![image](https://user-images.githubusercontent.com/96693271/147457476-f2709bfc-e2ba-449f-b59d-e92c84fcd7f5.png)
+
+## References
+https://github.com/Michael-Naguib/Hair-Classification
+
 
 
 
