@@ -32,8 +32,10 @@
 
 ![image](https://user-images.githubusercontent.com/96693271/147456966-c87516c3-4d4a-4d51-896b-982b4fb0b92b.png)
    - brute
+  
 ![image](https://user-images.githubusercontent.com/96693271/147457067-e29df347-0e22-41c3-9c9d-3191e66abdaf.png)
    - auto
+
    ![image](https://user-images.githubusercontent.com/96693271/147457033-17dfa945-24e1-48d5-831c-326da182747a.png)
 
 
