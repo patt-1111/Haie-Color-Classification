@@ -21,6 +21,13 @@
    - ทำการดาวโหลด dataset ไว้ในเครื่องแยกเป็นไฟล์เดอร์ไว้
    - ในส่วนของสีสามารพป้อนข้อมูลสีด้วยตนเอง โดยข้อมูลสีให้ป้อนเป็นรหัส Hex ของสี 
 ![image](https://user-images.githubusercontent.com/96693271/147456304-a13e4fe3-7c98-4c4c-ae21-53769fb0f334.png)
+   - รันโปรแกรม 
+ ## Training Data
+   ค่าใกล้เคียงที่สุดเราได้ใช้ KNeighborsClassifier เพื่อหาจุดที่ใกล้เคียง โดยทำการลองกำหนด algorithm ของ KNeighborsClassifier ให้แตกต่างกัน โดยลองด้วยกัน 4 แบบ คือ kd_tree, ball_tree, auto และ brute (คำนวณทั้งหมด) แล้ว preedic กลุ่มของสีผมที่ได้มาจากรูปภาพที่เรากำหนด แล้วplot ค่า K ออกมาดูค่า rate error ของสี
+   - kd_tree
+   ![image](https://user-images.githubusercontent.com/96693271/147456828-01fbaf7c-9830-47d9-afa5-a82c05d79c27.png)
+
+
 
 
 
