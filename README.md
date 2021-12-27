@@ -14,6 +14,13 @@
    - tqdm
    - sklearn
  ## Dataset
-   Train ข้อมูลที่ใช้ในการ train model
-   Test ข้อมูลที่ใช้ในกรทดสอบ model
-   dataset https://drive.google.com/drive/folders/1Mzzo_Nm-VBItojjAGddE8688pIRJ5bm9?usp=sharing
+   - Train ข้อมูลที่ใช้ในการ train model
+   - Test ข้อมูลที่ใช้ในกรทดสอบ model
+   - dataset https://drive.google.com/drive/folders/1Mzzo_Nm-VBItojjAGddE8688pIRJ5bm9?usp=sharing
+ ## How to use this project
+   - ทำการดาวโหลด dataset ไว้ในเครื่องแยกเป็นไฟล์เดอร์ไว้
+   - ในส่วนของสีสามารพป้อนข้อมูลสีด้วยตนเอง โดยข้อมูลสีให้ป้อนเป็นรหัส Hex ของสี 
+![image](https://user-images.githubusercontent.com/96693271/147456304-a13e4fe3-7c98-4c4c-ae21-53769fb0f334.png)
+
+
+
