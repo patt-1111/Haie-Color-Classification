@@ -13,3 +13,6 @@
    - matplotlib 
    - tqdm
    - sklearn
+ ## Dataset
+    Train ข้อมูลที่ใช้ในการ train model
+    Test ข้อมูลที่ใช้ในกรทดสอบ model
